@@ -1,5 +1,5 @@
 {
-  "name": "Bobiz-MD",
+  "name": "Borimo-Bot",
   "version": "1.0.0",
   "description": "undefined",
   "main": "/bobiz/index.js",
@@ -14,9 +14,9 @@
   "developer": "unknown",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/bobizbotmd"
+    "url": "https://github.com/Boriimo"
   },
-  "homepage": "https://github.com/bobizbotmd",
+  "homepage": "https://github.com/boriimo",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
     "simple-git": ">=3.5.0",
