@@ -1,4 +1,4 @@
-# BOBIZ-MD BY NOUREDDINE OUAFY
+# Borimo_Bot by BORIMO
 أول بوت عربي يقدم لك خدمات لا مثيل لها في الواتساب
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@bobizbotmd/BOBIZ-MD?v=1)
